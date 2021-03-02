@@ -47,10 +47,6 @@
 <br />
 <br />
 
----
-
-</details>
-
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" ![AloneDay-91 GitHub stats](https://github-readme-stats.vercel.app/api?username=aloneday-91&hide=contribs,prs) />
