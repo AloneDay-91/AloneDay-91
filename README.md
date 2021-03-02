@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elelouan&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
@@ -46,9 +46,9 @@
 
 <br />
 
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" ![AloneDay-91 GitHub stats](https://github-readme-stats.vercel.app/api?username=aloneday-91&hide=contribs,prs) />
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
