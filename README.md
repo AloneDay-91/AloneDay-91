@@ -34,6 +34,4 @@
 <br />
 
 [webdevplaylist]:
-[jsplaylist]:
 [cssplaylist]: 
-[reactplaylist]:
