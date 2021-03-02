@@ -49,5 +49,6 @@
 [instagram]:
 [linkedin]:
 [webdevplaylist]:
+[jsplaylist]:
 [cssplaylist]: 
 [reactplaylist]:
