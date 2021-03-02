@@ -42,11 +42,4 @@
 
 <br />
 
-[website]:
-[course]:
-[twitter]:
-[youtube]:
-[instagram]:
-[linkedin]:
 [webdevplaylist]:
-[cssplaylist]: 
