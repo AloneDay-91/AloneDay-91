@@ -46,10 +46,6 @@
 
 <br />
 
-![AloneDay-91 GitHub stats](https://github-readme-stats.vercel.app/api?username=aloneday-91&hide=contribs,prs)
-
-<br />
-
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
