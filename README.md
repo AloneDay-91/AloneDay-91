@@ -1,10 +1,10 @@
 ### Hey Salut toi ! Je m'appelle AloneDay
 
-## Je suis dévellopeur et joueur dans l'âme !!
+## Je suis dévelopeur et joueur dans l'âme !!
 
 - 🌱 J’apprends actuellement tout 🤣
 - 👯 Je cherche à collaborer avec d’autres créateurs de contenu
-- 🥅 Objectif 2021: Crée un bot fonctionnel !
+- 🥅 Objectif 2021: Créer un bot fonctionnel !
 - ⚡ Fun fact: J'aime Discord et les jeux vidéos
 
 ### Spotify Playing 🎧
