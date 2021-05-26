@@ -1,8 +1,5 @@
 ### Hey Salut toi ! Je m'appelle AloneDay
 
-## Je suis dévelopeur et joueur dans l'âme !!
-
-
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elelouan&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
