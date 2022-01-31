@@ -22,6 +22,11 @@
 
 <br />
 
+[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://aloneday-91.github.io/index/)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://badges.pufler.dev)
+
 [webdevplaylist]:
 [jsplaylist]:
 [cssplaylist]: 
