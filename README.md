@@ -27,6 +27,8 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://badges.pufler.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true&theme=radical)
+
 [webdevplaylist]:
 [jsplaylist]:
 [cssplaylist]: 
