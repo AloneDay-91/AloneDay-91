@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://aloneday-91.github.io/index/)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://github.com/AloneDay-91?tab=repositories)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AloneDay-91?tab=followers)
