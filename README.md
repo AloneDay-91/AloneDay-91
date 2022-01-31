@@ -1,5 +1,10 @@
 ### Hey Salut toi ! Je m'appelle AloneDay
 
+[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://aloneday-91.github.io/index/)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://badges.pufler.dev)
+
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elelouan&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
@@ -21,11 +26,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-
-[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://aloneday-91.github.io/index/)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://badges.pufler.dev)
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true&theme=radical)
 
