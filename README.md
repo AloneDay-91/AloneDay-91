@@ -1,4 +1,4 @@
-### Hey Salut toi ! Je m'appelle AloneDay
+### Hey there! My name is AloneDay
 
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://github.com/AloneDay-91?tab=repositories)
@@ -8,7 +8,7 @@
 
 ---
 
-### Languages et outils:
+### Languages and tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -27,7 +27,7 @@
 
 ---
 
-### Mes Statistiques :
+### My Statistics:
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true" align = "left"/>
