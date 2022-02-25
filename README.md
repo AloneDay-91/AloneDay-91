@@ -39,11 +39,6 @@ sssss### Hey there! My name is AloneDay👋
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AloneDay-91&show_icons=true&locale=en&layout=compact" align = "left"/>
 </p>
 
----
-
-### 📊 My Statistics:
-[![Discord Presence](https://lanyard.cnrad.dev/api/254267330689761281)](https://discord.com/users/254267330689761281)
-
 [webdevplaylist]:
 [jsplaylist]:
 [cssplaylist]: 
