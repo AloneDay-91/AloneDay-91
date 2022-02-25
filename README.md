@@ -1,4 +1,4 @@
-sssss### Hey there! My name is AloneDay👋
+### Hey there! My name is AloneDay👋
 
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://github.com/AloneDay-91?tab=repositories)
@@ -29,6 +29,7 @@ sssss### Hey there! My name is AloneDay👋
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />][webdevplaylist]
 
 <br />
+<br />
 
 ---
 
@@ -37,6 +38,17 @@ sssss### Hey there! My name is AloneDay👋
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true" align = "left"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AloneDay-91&show_icons=true&locale=en&layout=compact" align = "left"/>
+</p>
+
+<br />
+<br />
+
+---
+
+### My Discord profile:
+
+<p align="left">
+<img height="80em" src="https://discord.c99.nl/widget/theme-1/254267330689761281.png" align = "left"/>
 </p>
 
 [webdevplaylist]:
