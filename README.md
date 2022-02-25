@@ -1,6 +1,5 @@
 ### Hey Salut toi ! Je m'appelle AloneDay
 
-[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://aloneday-91.github.io/index/)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://github.com/AloneDay-91?tab=repositories)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
