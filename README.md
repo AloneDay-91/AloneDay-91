@@ -29,8 +29,8 @@
 
 ### Mes Statistiques :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneDay-91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneDay-91&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [webdevplaylist]:
 [jsplaylist]:
