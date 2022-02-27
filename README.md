@@ -1,4 +1,4 @@
-### Hey there! My name is AloneDay👋
+<h2 align=center>Hey there! My name is AloneDay👋</h2>
 
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://github.com/AloneDay-91?tab=repositories)
