@@ -9,8 +9,10 @@
   <a href="https://svgshare.com/i/Zhy.svg"><img src="https://svgshare.com/i/Zhy.svg"/></a>
   <a href="https://github.com/AloneDay-91?tab=followers"><img src="https://img.shields.io/github/followers/AloneDay-91.svg?style=social&label=Follow&maxAge=2592000"/></a>
 </p>
+<p align="center">
+  <img align="center" src="https://discord.c99.nl/widget/theme-1/254267330689761281.png"/>
+</p>
 
-<img align="left" src="https://discord.c99.nl/widget/theme-1/254267330689761281.png"/>
 </div>
 
 ### 💻 Languages & Tools:
