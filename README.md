@@ -37,9 +37,13 @@
 <h2 align=center>📊 GitHub Analytics:</h2>
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true" align = "center"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AloneDay-91&show_icons=true&locale=en&layout=compact" align = "center"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true&theme=cobalt" align = "center"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AloneDay-91&show_icons=true&locale=en&layout=compact&theme=cobalt" align = "center"/>
 </p>
+<p align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AloneDay-91&theme=cobalt" align = "center"/>
+</p>
+
 
 [webdevplaylist]:
 [jsplaylist]:
