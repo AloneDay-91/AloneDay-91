@@ -1,6 +1,8 @@
+
+<img align="right" alt="HTML5" width="100px" src="https://api.visitorbadge.io/api/VisitorHit?user=AloneDay-91&repo=github-visitors-badge&countColor=%237B1E7A" />
 <h2 align=center>Hey there! My name is AloneDay👋</h2>
 
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
 [![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://github.com/AloneDay-91?tab=repositories)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
