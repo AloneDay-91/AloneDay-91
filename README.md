@@ -14,8 +14,7 @@
 </p>
 
 </div>
-
-### 💻 Languages & Tools:
+<h2 align=center>💻 Languages & Tools:</h2>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -30,15 +29,14 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=terminal)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br />
 <br />
 
 ---
 
-### 📊 My Statistics:
+### 📊 GitHub Analytics:
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true" align = "left"/>
