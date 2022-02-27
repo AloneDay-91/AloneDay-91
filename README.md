@@ -6,7 +6,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/AloneDay-91)](https://github.com/AloneDay-91?tab=repositories)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AloneDay-91?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AloneDay-91.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AloneDay-91?tab=followers)
 
 ---
 
