@@ -34,17 +34,12 @@
 
 <br />
 
----
-
 <h2 align=center>📊 GitHub Analytics:</h2>
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AloneDay-91&show_icons=true" align = "left"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AloneDay-91&show_icons=true&locale=en&layout=compact" align = "left"/>
 </p>
-
-<br />
-<br />
 
 [webdevplaylist]:
 [jsplaylist]:
