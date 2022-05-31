@@ -1,5 +1,5 @@
 
-<img align="right" alt="HTML5" width="100px" src="https://visitcount.itsvg.in/api?id=AloneDay-91&icon=1&color=0"/>
+<img align="right" alt="HTML5" width="150px" src="https://visitcount.itsvg.in/api?id=AloneDay-91&icon=1&color=0"/>
 <h2 align=center>Hey there! My name is AloneDay👋</h2>
 
 <p align="center">
