@@ -1,5 +1,3 @@
-
-<img align="right" alt="HTML5" width="150px" src="https://visitcount.itsvg.in/api?id=AloneDay-91&icon=1&color=0"/>
 <h2 align=center>Hey there! My name is AloneDay👋</h2>
 
 <p align="center">
@@ -56,23 +54,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 &nbsp;
-
-<br />
-
-<h2 align=center>📊 GitHub Analytics:</h2>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AloneDay-91&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" align = "center"/>&nbsp;
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AloneDay-91&theme=blue-green&hide_border=true" align = "center"/>&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneDay-91&theme=blue-green&hide_border=true&include_all_commits=true" align = "center"/>&nbsp;
-</p>
-
-<h2 align=center>💰You can help me by Donating:</h2>
-
-<p  align="center">
-  <a href="https://ko-fi.com/aloneday"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-  <a href="https://paypal.me/Belouan"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-</p>
 
 [webdevplaylist]:
 [jsplaylist]:
