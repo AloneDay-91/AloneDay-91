@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=blue"/></a>
-  <a href="https://github.com/AloneDay-91?tab=repositories"><img src="https://badges.pufler.dev/repos/AloneDay-91"/></a>
   <a href="https://svgshare.com/i/ZhY.svg"><img src="https://svgshare.com/i/ZhY.svg"/></a>
   <a href="https://svgshare.com/i/Zhy.svg"><img src="https://svgshare.com/i/Zhy.svg"/></a>
   <a href="https://aloneday-91.github.io/index/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"/></a>
