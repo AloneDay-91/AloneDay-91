@@ -9,14 +9,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/elelouan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
