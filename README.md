@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AloneDay-91/AloneDay-91/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
