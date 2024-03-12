@@ -1,6 +1,6 @@
 <br>
 <h1 align="center"> Hi 👋, I'm Elouan Bruzek </h1>
-<h3 align="center"> A passionate fullstack developer from France ! </h3>
+<h3 align="center"> A passionate fullstack developer Junior from France ! </h3>
 
 <p align="center">
   <a href="https://elouanbruzek.me/">Official Website</a>
