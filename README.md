@@ -3,7 +3,7 @@
 <h3 align="center"> A passionate fullstack developer Junior from France ! </h3>
 
 <p align="center">
-  <a href="https://elouanbruzek.me/">Official Website</a>
+  <a href="https://elouanb.fr">Official Website</a>
 </p>
 
 ###
