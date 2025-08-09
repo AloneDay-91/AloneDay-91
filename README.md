@@ -17,8 +17,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-widget-github.vercel.app/api/profile?username=aloneday-91&theme=dark" />
-  <img src="https://profile-widget-github.vercel.app/api/tech?username=aloneday-91&theme=dark&tech=React%2CTypeScript%2CNext.js%2CJavaScript%2CPython%2CCSS%2CBash%2CMySQL%2CSass%2CTailwind+CSS%2CVue.js%2CExpress%2CMongoDB%2CAngular%2CDocker%2CGit%2CBootstrap%2CNode.js%2CMarkdown%2CPowerShell%2CJSON%2CC%2B%2B%2CHTML%2CPHP" />
+  <img width="384px" height="307px" src="https://profile-widget-github.vercel.app/api/profile?username=aloneday-91&theme=dark" />
+  <img width="384px" height="307px" src="https://profile-widget-github.vercel.app/api/tech?username=aloneday-91&theme=dark&tech=React%2CTypeScript%2CNext.js%2CJavaScript%2CPython%2CCSS%2CBash%2CMySQL%2CSass%2CTailwind+CSS%2CVue.js%2CExpress%2CMongoDB%2CAngular%2CDocker%2CGit%2CBootstrap%2CNode.js%2CMarkdown%2CPowerShell%2CJSON%2CC%2B%2B%2CHTML%2CPHP" />
 </div>
 
 ###
