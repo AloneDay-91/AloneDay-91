@@ -1,3 +1,6 @@
+![Alt Text](https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png)
+
+
 <br>
 <h1 align="center"> Hi 👋, I'm Elouan Bruzek </h1>
 <h3 align="center"> A passionate fullstack developer Junior from France ! </h3>
