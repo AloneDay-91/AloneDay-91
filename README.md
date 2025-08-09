@@ -1,6 +1,7 @@
 ![Alt Text](https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png)
 
-![GitHub Profile Widget](https://profile-widget-github-e8u98ifxm-aloneday91s-projects.vercel.app/api/profile?username=aloneday-91&theme=light) ![GitHub Tech Widget](https://profile-widget-github-e8u98ifxm-aloneday91s-projects.vercel.app/api/tech?username=aloneday-91&theme=light&tech=React%2CTypeScript%2CNext.js%2CJavaScript)
+![GitHub Profile Widget](https://profile-widget-github-e8u98ifxm-aloneday91s-projects.vercel.app/api/profile?username=aloneday-91&theme=light&v=1)
+![GitHub Tech Widget](https://profile-widget-github-e8u98ifxm-aloneday91s-projects.vercel.app/api/tech?username=aloneday-91&theme=light&tech=React%2CTypeScript%2CNext.js%2CJavaScript&v=1)
 
 
 <br>
