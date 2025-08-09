@@ -1,4 +1,6 @@
-![Alt Text](https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png)
+<div align="center">
+  <img height='250px' width="100%" src="https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png"  />
+</div>
 
 <br>
 <h1 align="center"> Hi 👋, I'm Elouan Bruzek </h1>
@@ -16,11 +18,6 @@
 
 <div align="center">
   <img src="https://profile-widget-github.vercel.app/api/profile?username=aloneday-91&theme=dark" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-widget-github.vercel.app/api/tech?username=aloneday-91&theme=dark&tech=React%2CTypeScript%2CNext.js%2CJavaScript%2CPython%2CCSS%2CBash%2CMySQL%2CSass%2CTailwind+CSS%2CVue.js%2CExpress%2CMongoDB%2CAngular%2CDocker%2CGit%2CBootstrap%2CNode.js%2CMarkdown%2CPowerShell%2CJSON%2CC%2B%2B%2CHTML%2CPHP" />
 </div>
 
