@@ -1,9 +1,5 @@
 ![Alt Text](https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png)
 
-![GitHub Profile Widget](https://profile-widget-github-e8u98ifxm-aloneday91s-projects.vercel.app/api/profile?username=aloneday-91&theme=light&v=3)
-![GitHub Tech Widget](https://profile-widget-github-e8u98ifxm-aloneday91s-projects.vercel.app/api/tech?username=aloneday-91&theme=light&tech=React%2CTypeScript%2CNext.js%2CJavaScript&v=3)
-
-
 <br>
 <h1 align="center"> Hi 👋, I'm Elouan Bruzek </h1>
 <h3 align="center"> A passionate fullstack developer Junior from France ! </h3>
@@ -19,13 +15,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=AloneDay-91&data=followers,repositories,stars,commits&theme=viridescent" />
+  <img src="https://profile-widget-github.vercel.app/api/profile?username=aloneday-91&theme=dark" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,cpp,bash,json,mysql,powershell,sass,markdown,tailwindcss,react,nextjs,nodejs,vuejs,git,mongodb,bootstrap,express&theme=viridescent" />
+  <img src="https://profile-widget-github.vercel.app/api/tech?username=aloneday-91&theme=dark&tech=React%2CTypeScript%2CNext.js%2CJavaScript%2CPython%2CCSS%2CBash%2CMySQL%2CSass%2CTailwind+CSS%2CVue.js%2CExpress%2CMongoDB%2CAngular%2CDocker%2CGit%2CBootstrap%2CNode.js%2CMarkdown%2CPowerShell%2CJSON%2CC%2B%2B%2CHTML%2CPHP" />
 </div>
 
 ###
