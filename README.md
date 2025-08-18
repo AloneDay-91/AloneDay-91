@@ -1,5 +1,5 @@
 <div align="center">
-  <img height='250px' width="100%" src="https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png"  />
+  <img height='200px' width="100%" src="https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png"  />
 </div>
 
 <br>
