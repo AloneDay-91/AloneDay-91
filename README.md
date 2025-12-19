@@ -1,8 +1,3 @@
-<div align="center">
-  <img height='200px' width="100%" src="https://i.ibb.co/9H240D6t/image-mesh-gradient-3.png"  />
-</div>
-
-<br>
 <h1 align="center"> Hi 👋, I'm Elouan Bruzek </h1>
 <h3 align="center"> A passionate fullstack developer Junior from France ! </h3>
 
@@ -17,8 +12,8 @@
 ###
 
 <div align="center">
-  <img width="384px" height="307px" src="https://profile-widget-github.vercel.app/api/profile?username=aloneday-91&theme=dark" />
-  <img width="384px" height="307px" src="https://profile-widget-github.vercel.app/api/tech?username=aloneday-91&theme=dark&tech=React%2CTypeScript%2CNext.js%2CJavaScript%2CPython%2CCSS%2CBash%2CMySQL%2CSass%2CTailwind+CSS%2CVue.js%2CExpress%2CMongoDB%2CAngular%2CDocker%2CGit%2CBootstrap%2CNode.js%2CMarkdown%2CPowerShell%2CJSON%2CC%2B%2B%2CHTML%2CPHP" />
+  <img width="384px" height="307px" src="https://nextcloud.mmi23f03.fr/apps/files_sharing/publicpreview/tYoKbqzrE76XkwZ?file=/&fileId=1594&x=5120&y=1440&a=true&etag=6c1d95c923c8db194f35eb5141f1ef0e" />
+  <img width="384px" height="307px" src="https://nextcloud.mmi23f03.fr/apps/files_sharing/publicpreview/YP4oYBWBFMeXaCj?file=/&fileId=1593&x=5120&y=1440&a=true&etag=e37f7e72adeed0ebdccd3d0bb13a0d54" />
 </div>
 
 ###
