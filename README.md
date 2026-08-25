@@ -6,7 +6,7 @@
 
 <p align="center">
   Junior full-stack web developer in Paris.<br />
-  Elegant, fast digital experiences — a little obsessive.
+  Elegant, fast digital experiences
 </p>
 
 <p align="center">
@@ -21,6 +21,10 @@
   <img src="https://elouanb.fr/badges.png" alt="Skills" width="880" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AloneDay-91&theme=github-compact" alt="GitHub activity" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AloneDay-91&theme=github-compact"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AloneDay-91.AloneDay-91&left_color=blueviolet"  />
+</div>
