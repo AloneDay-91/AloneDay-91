@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AloneDay-91&theme=github-compact"  />
+  <img src="https://elouanb.fr/gitmap.png"  />
 </div>
 
 <div align="center">
